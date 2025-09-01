@@ -145,14 +145,6 @@ This application is deployed on **Netlify** for fast, reliable hosting with auto
 - **Multi-language Support** - Internationalization features
 - **PWA Features** - Offline functionality and app-like experience
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 👨‍💻 Author
 
 **Ali Abdelazim** - [GitHub Profile](https://github.com/aliabdelazim7)
